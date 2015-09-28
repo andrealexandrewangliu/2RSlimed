@@ -45,3 +45,6 @@ rpgmaker.net/scripts/299/
 
 ### Yanfly
 yanflychannel.wordpress.com
+
+#Notes
+Forgot to place the MC backstory scenes, will do once I finish the game's basic main story.
